@@ -1,2 +1,6 @@
 "new content"
+<<<<<<< HEAD
 "changed in master"
+=======
+"changed content in master"
+>>>>>>> newbranch
